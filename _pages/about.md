@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yifei Zong, a researcher in his early career in the realm of hydrology and water resources engineering, but have decided to dedicate myself to a lifelong pursuit of understanding, exploration, and innovation driven by a deep-seated desire to contribute to a better natural environment and human community through continual research. I love basketball &#127936, travel and music.
+My name is Yifei Zong, a researcher in his early career in the realm of hydrology and water resources engineering, but have decided to dedicate myself to a lifelong pursuit of understanding, exploration, and innovation driven by a deep-seated desire to contribute to a better natural environment and human community through continual research. I love basketball <a>&#127936</a>, travel and music.
 
 My research interests include using scientific computation methods, such as numerical and state-of-the-art deep learning methods to solve partial differential equations and utilizing stochastic modeling to quantify uncertainties. 
 My research interest includes using scientific machine learning to solve physical problems in natural and engineering systems, and utilizing stochastic methods for uncertainty quantification to better understand the systems. Also, I am interested in traditional numerical modeling methods to provide model-based solutions to real-world problems.<a href='https://scholar.google.com/citations?user=-tNRjooAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
