@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifei Zong"
-description              : "PhD Candidate in Civil and Environmental Engineering at University of Illinois Urbana-Champaign "
+title                    : "Yifei Zong 纵翼飞"
+description              : "Assistant Professor in the School of Water Conservancy and Transportation, Zhengzhou University "
 repository               : "geekyifei/geekyifei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifei Zong"
+  name             : "Yifei Zong 纵翼飞"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Illinois, Urbana-Champaign (UIUC)"
-  location         : "Champaign, IL"
+  bio              : "Zhengzhou University 郑州大学"
+  location         : "Zhengzhou, Henan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=-tNRjooAAAAJ"
-  email            : "yzong6@illinois.edu"
+  email            : "yifeizong@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
