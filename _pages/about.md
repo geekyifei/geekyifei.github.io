@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yifei Zong, an early-career researcher specializing in hydrology and water resources engineering from China 🇨🇳. I am deeply committed to a lifelong pursuit of understanding, exploration, and innovation, to contribute to a better natural environment and human community through continuous research. I love basketball 🏀, travel 👣, and music 🎶.
+My name is Yifei Zong, an early-career researcher specializing in hydrology and water resources engineering from China 🇨🇳. I am deeply committed to a lifelong pursuit of understanding, exploration, and innovation, to contribute to a better natural environment and human community through continuous research. I love basketball 🏀, tennis 🎾， travel 👣, and music 🎶.
 
-My research focuses on using scientific computation methods, including numerical techniques and advanced deep learning approaches, to solve partial differential equations (PDEs) and employ stochastic modeling approaches for uncertainty quantification to gain a deeper understanding of these systems. Additionally, I explore traditional numerical modeling methods to provide model-based solutions to real-world challenges <a href='https://scholar.google.com/citations?user=-tNRjooAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research uses scientific computation methods, including numerical techniques and advanced deep learning approaches, to solve partial differential equations (PDEs) and employ stochastic modeling approaches for uncertainty quantification to gain a deeper understanding of these systems. Additionally, I explore traditional numerical modeling methods to provide model-based solutions to real-world challenges <a href='https://scholar.google.com/citations?user=-tNRjooAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+# 🧑‍🎓 Research Interest
+Al for PDE, hydrodynamic modeling, subsurface flow and solute transport modeling, inverse problems and uncertainty quantification
 
 # 📖 Educations
-- *2021.01 - now*, Ph.D. Candidate, Civil and Environmental Engineering, University of Illinois Urbana-Champaign
+- *2021.01 - 2025.05*, Doctor of Philosophy, Civil and Environmental Engineering, University of Illinois Urbana-Champaign
 - *2019.08 - 2020.12*, Master of Science, Civil and Environmental Engineering, University of Illinois Urbana-Champaign
 - *2014.08 - 2019.06*, Bachelor of Science, Hornors Earth Sciences (2+2 program), Ocean University of China & University of Waterloo
 
 # 🎖 Honors and Awards
+- *2023* Chinese government award for outstanding students abroad
 - *2018* Duncan F McIvor Memorial Award, University of Waterloo
 - *2016* Chinese Universities Program Award, University of Waterloo
 
